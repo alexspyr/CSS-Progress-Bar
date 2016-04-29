@@ -1,0 +1,6 @@
+{
+  "name": "Css-progress-bar",
+  "tagline": "Basic example use of CSS progress bars. Everything can be customized accordingly.   ",
+  "body": "## Synopsis\r\n\r\nThis is a very basic use of CSS progress bard. You can customize everything.\r\n\r\n## Code Example\r\n\r\n\t<h3>HTML</h3>\r\n\t<div class=\"progress\">\r\n\t\t<div class=\"progress-bar\" style=\"width: 90%;\"></div>  //The width determines the progress in the progress bar.\r\n\t</div>\r\n\r\n## Motivation\r\n\r\nThe progress bar is a very visual way to express usually hoow much you know something or how much something is completed. \r\nI usually use the progress bar when I am developing portofolio sites and I want a visual way to express how much someone knows \r\nsomething. \r\n\r\n## Installation\r\n\r\nJust clone or download the 2 files and put them in the same folder.\r\n\r\n## Contributors\r\n\r\nI am planning on adding some nicer design on the future. If you want to help me maybe make it more material-like, fork the project\r\nand then make a pull request. For any problems send me a message.\r\n\r\n## License\r\n\r\nMIT License (MIT)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
